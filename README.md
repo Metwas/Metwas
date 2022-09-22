@@ -6,6 +6,8 @@ I'm a full stack developer with background experience in the transport and displ
 <br />
 I was born and raised in South Africa 🇿🇦, now living in the UK.
 
+---
+
 **`Creator of Geeko - Display Content Management System`**
 
 ![image](https://github.com/Metwas/geeko/blob/master/images/logo.svg)
