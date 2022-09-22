@@ -36,7 +36,7 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 <br/>
 🎨 Art is a great past-time and self-realization hobby of mine.
 <br/>
-🎮 Ofcourse gaming is also great hobbie of mine, particularly real-time stategy games.
+🎮 Ofcourse gaming, particularly real-time stategy games.
 
 #
 
