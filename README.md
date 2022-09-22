@@ -44,9 +44,11 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
  <summary><h3>👨‍💻 My Journey to becoming a Software Engineer</h3></summary>
 I had always been surrounded by technology, this stems true even from my early childhood. At first, a computer to me was solely a point of reference to gaming, but as time went on and games grew tiresome, I realised these games could be modified! This was my first experience into the world of code, a world with endless possibilities.
 <br/>
+<br/>
 Each idea for a game modification demanded knowledge and experience across areas I never thought possible, but this was my driving force.At that point, I now had a broad range of experience in areas such as; Networking, Graphical processing, Sound and Web technolgies. Now, I retain all the experience over the years to develop full-stack applications for both Desktop & Web, pioneering in new technogies and software which will benefit and enhance the user's experience.
   
 Without a doubt, technologies will continue to evolve & grow at a rapid rate, more so now with the increased availablilty of technogies to the world!
+<br/>
 <br/>
 I am glad that I am part of this growth now and been a professional developer for over 3 years. 
 
