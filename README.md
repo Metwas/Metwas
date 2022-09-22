@@ -33,7 +33,9 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 ### 📊 Hobbies
 
 🎸🎼 I have a passion for music, in particular classical guitar.
+<br/>
 🎨   Art is a great past-time and self-realization hobbie of mine.
+<br/>
 🎮   Ofcourse gaming is also great hobbie of mine, particularly real-time stategy games.
 
 #
@@ -46,8 +48,12 @@ Each idea for a game modification demanded knowledge and experience across areas
   
 To this day, I am deep in the process of learning new technogies - something which will never fade.
 
-[website]: Coming Soon - (Geeko Display Management)
-[youtube]: Coming Soon - (Server related video topics)
+**`[Website]`**
+ <br/>
+Coming Soon - (Geeko Display Management)
+ <br/>
+**`[Youtube]`**
+Coming Soon - (Server related video topics)
 
 ### Projects
 ![image](https://github.com/Metwas/geeko/blob/master/images/logo.svg)
