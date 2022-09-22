@@ -48,11 +48,12 @@ Each idea for a game modification demanded knowledge and experience across areas
   
 To this day, I am deep in the process of learning new technogies - something which will never fade.
 
-**`[Website]`**
+**`Website`**
  <br/>
 Coming Soon - (Geeko Display Management)
  <br/>
-**`[Youtube]`**
+**`Youtube`**
+ <br/>
 Coming Soon - (Server related video topics)
 
 ### Projects
