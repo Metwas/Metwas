@@ -3,6 +3,7 @@
 **`Full Stack Development (Developer/Engineer/Tech Enthusiast)`**
 
 I'm a full stack developer with background experience in the transport and displays industry.
+<br />
 I was born and raised in South Africa 🇿🇦, now living in the UK.
 
 **`Creator of Geeko - Display Content Management System`**
