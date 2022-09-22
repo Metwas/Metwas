@@ -8,12 +8,6 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 
 ---
 
-**`Creator of Geeko - Display Content Management System`**
-
-![image](https://github.com/Metwas/geeko/blob/master/images/logo.svg)
-
----
-
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
@@ -54,3 +48,9 @@ To this day, I am deep in the process of learning new technogies - something whi
 
 [website]: Coming Soon - (Geeko Display Management)
 [youtube]: Coming Soon - (Server related video topics)
+
+### Projects
+![image](https://github.com/Metwas/geeko/blob/master/images/logo.svg)
+**`Creator of Geeko - Display Content Management System`**
+
+---
