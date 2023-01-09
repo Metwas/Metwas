@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&lines=Welcome+To+My+Profile!+🤖)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&lines=🤖💬+Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 **`Full Stack Development (Developer/Engineer/Tech Enthusiast)`**
 
