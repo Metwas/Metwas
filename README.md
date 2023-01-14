@@ -59,9 +59,3 @@ Coming Soon - (Geeko Display Management)
 **`Youtube`**
  <br/>
 Coming Soon - (Server related video topics)
-
-### Projects
-![image](https://github.com/Metwas/geeko/blob/master/images/logo.svg)
-**`Creator of Geeko - Display Content Management System`**
-
----
