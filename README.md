@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&lines=🤖💬+Welcome+To+My+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&color=#FF0000&lines=🤖💬+Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
 **`Full Stack Development (Developer/Engineer/Tech Enthusiast)`**
 
@@ -36,7 +36,7 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 <br/>
 🎨 Art is a great past-time and self-realization hobby of mine.
 <br/>
-🎮 Ofcourse gaming, particularly real-time stategy games.
+🎮 Gaming, particularly real-time stategy games & simulation.
 
 #
 
@@ -54,8 +54,8 @@ I am glad that I am part of this growth now and been a professional developer fo
 
 **`Website`**
  <br/>
-Coming Soon - (Geeko Display Management)
+Coming Soon
  <br/>
 **`Youtube`**
  <br/>
-Coming Soon - (Server related video topics)
+https://www.youtube.com/channel/UCVEFDk29gxEUWbdgfoH4m6Q
