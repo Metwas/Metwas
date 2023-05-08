@@ -40,6 +40,16 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 
 #
 
+**`Website`**
+ <br/>
+Coming Soon
+ <br/>
+**`Youtube`**
+ <br/>
+https://www.youtube.com/channel/UCVEFDk29gxEUWbdgfoH4m6Q
+
+#
+
 <details>
  <summary><h3>👨‍💻 My Journey to becoming a Software Engineer</h3></summary>
 I had always been surrounded by technology, this stems true even from my early childhood. At first, a computer to me was solely a point of reference to gaming, but as time went on and games grew tiresome, I realised these games could be modified! This was my first experience into the world of code, a world with endless possibilities.
@@ -51,11 +61,3 @@ Without a doubt, technologies will continue to evolve & grow at a rapid rate, mo
 <br/>
 <br/>
 I am glad that I am part of this growth now and been a professional developer for over 3 years. 
-
-**`Website`**
- <br/>
-Coming Soon
- <br/>
-**`Youtube`**
- <br/>
-https://www.youtube.com/channel/UCVEFDk29gxEUWbdgfoH4m6Q
