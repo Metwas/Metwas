@@ -40,9 +40,6 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 
 #
 
-**`Website`**
- <br/>
-Coming Soon
  <br/>
 **`Youtube`**
  <br/>
