@@ -40,7 +40,7 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 
 #
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Metwas/Metwas/blob/main/images/download.png" />
+### Youtube <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Metwas/Metwas/blob/main/images/youtube.png" />
 <br/>
 https://www.youtube.com/channel/UCVEFDk29gxEUWbdgfoH4m6Q
 
