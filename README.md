@@ -32,11 +32,11 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 
 ### 📊 Hobbies
 
-🎸 I have a passion for music, in particular classical guitar.
+🎸 Classical guitar.
 <br/>
-🎨 Art is a great past-time and self-realization hobby of mine.
+🎨 Painting.
 <br/>
-🎮 Gaming, particularly real-time stategy games & simulation.
+🎮 Gaming.
 
 #
 
