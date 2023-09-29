@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&width=600&lines=🐭💬+Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
-**`Full Stack Development (Developer/Engineer/Tech Enthusiast)`**
+**`Software Engineer`**
 
-I'm a full stack developer with background experience in the transport and displays industry.
+I'm a full-time software engineer with background experience in the transport and displays industry.
 <br />
 I was born and raised in South Africa 🇿🇦, now living in the UK.
 
