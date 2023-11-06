@@ -6,7 +6,7 @@ I'm a full-time software engineer with background experience in the transport an
 <br />
 I was born and raised in South Africa 🇿🇦, now living in the UK.
 
----
+<br />
 
 ### 🧰 Languages and Tools
 
@@ -26,11 +26,13 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />      
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
 <br />
 
 #
 
 ### 📊 Hobbies
+<br />
 
 🎸 Classical guitar.
 <br/>
