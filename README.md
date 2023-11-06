@@ -29,6 +29,7 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
 <br />
+#
 <br />
 
 ### 📊 Hobbies
@@ -39,6 +40,8 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 <br/>
 🎮 Gaming.
 
+<br />
+#
 <br />
 
 ### Youtube <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/Metwas/Metwas/blob/main/images/youtube.png" />
