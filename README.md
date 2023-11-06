@@ -6,7 +6,7 @@ I'm a full-time software engineer with background experience in the transport an
 <br />
 I was born and raised in South Africa 🇿🇦, now living in the UK.
 
-<br />
+#
 
 ### 🧰 Languages and Tools
 
