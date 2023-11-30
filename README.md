@@ -36,13 +36,3 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
 <br />
 
 #
-
-### 📺 Latest YouTube Videos
-
-<!-- BEGIN YOUTUBE-CARDS -->
-[![A319 Alicante 🛫 Gibraltar Full Flight in Microsoft Flight Simulator](https://ytcards.demolab.com/?id=258RKQTjPPQ&title=A319 Alicante 🛫 Gibraltar Full Flight in Microsoft Flight Simulator&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2132 "A319 Alicante 🛫 Gibraltar Full Flight in Microsoft Flight Simulator")]([https://www.youtube.com/watch?v=YuJ6jEb3bOQ](https://www.youtube.com/watch?v=258RKQTjPPQ))
-<!-- END YOUTUBE-CARDS -->
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
