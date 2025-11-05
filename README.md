@@ -14,5 +14,5 @@ I was born and raised in South Africa 🇿🇦, now living in the UK.
    </p>
 
 ---
-[![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,cpp,angular,nodejs,aws,figma,linux,arduino,bash)](https://skillicons.dev)
+[![Languages and Tools](https://skillicons.dev/icons?i=html,css,js,ts,cpp,zig,angular,nodejs,aws,figma,linux,arduino,bash)](https://skillicons.dev)
 
