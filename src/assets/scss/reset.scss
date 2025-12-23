@@ -1,0 +1,62 @@
+*,
+*::before,
+*::after {
+       margin: 0;
+       padding: 0;
+       border: none;
+       outline: none;
+       box-sizing: border-box;
+       vertical-align: baseline;
+}
+
+ul,
+ol {
+       list-style: none;
+}
+
+table {
+       border-collapse: collapse;
+       border-spacing: 0;
+}
+
+img {
+       max-width: 100%;
+       height: auto;
+       display: block;
+}
+
+input,
+button,
+textarea,
+select {
+       font: inherit;
+}
+
+a {
+       text-decoration: none;
+       color: inherit;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+       text-wrap: balance;
+}
+
+p,
+li,
+figcaption {
+       max-width: 65ch;
+       text-wrap: pretty;
+}
+
+main,
+section,
+header,
+footer,
+article {
+       container-type: inline-size;
+}

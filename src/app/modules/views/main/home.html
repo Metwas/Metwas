@@ -1,0 +1,63 @@
+<p>{{clock()}}</p>
+<p>{{name}}</p>
+<form #form="ngForm" (ngSubmit)="onSubmitForm(form, $event)">
+       <input [(ngModel)]="name" required minlength="2" #firstName="ngModel" name="first-name" type="text" id="name"
+              placeholder="Enter your name" type="text" />
+       @if(firstName.dirty && firstName.hasError('required')){
+       <div class="input-error">This field is required</div>
+       }
+       <button [disabled]="form.invalid">Save</button>
+</form>
+
+<div class="card-container">
+       <div class="card">
+              <div class="card-page">
+                     <picture>
+                            <source media="(orientation: portrait) and (max-width: 500px)"
+                                   srcset="./images/banner-p-s.jpg" />
+                            <source media="(orientation: portrait) and (max-width: 1200px)"
+                                   srcset="./images/banner-p-m.jpg" />
+
+                            <img src="./images/banner-l-s.png" />
+                     </picture>
+              </div>
+       </div>
+       <div class="card">
+              <div class="card-page">
+                     <input type="color" list="default-color-list" />
+
+                     <datalist id="default-color-list">
+                            <option value="#98ffaa"></option>
+                            <option value="#12ffaa"></option>
+                            <option value="#34ffaa"></option>
+                            <option value="#55ffaa"></option>
+                            <option value="#AAffaa"></option>
+                     </datalist>
+              </div>
+       </div>
+       <div class="card">
+              <div class="card-page">
+                     <p>Text</p>
+              </div>
+       </div>
+       <div class="card">
+              <div class="card-page">
+                     <p>Text</p>
+              </div>
+       </div>
+       <div class="card">
+              <div class="card-page">
+                     <p>Text</p>
+              </div>
+       </div>
+       <div class="card">
+              <div class="card-page">
+                     <p>Text</p>
+              </div>
+       </div>
+       <div class="card">
+              <div class="card-page">
+                     <p>Text</p>
+              </div>
+       </div>
+</div>

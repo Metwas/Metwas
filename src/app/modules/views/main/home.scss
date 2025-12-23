@@ -1,0 +1,97 @@
+p {
+       color: #FFF;
+}
+
+@property --border-deg {
+       syntax: "<angle>";
+       inherits: true;
+       initial-value: 0deg;
+}
+
+.card-container {
+       position: relative;
+       margin: auto auto;
+       width: 50%;
+       display: flex;
+       flex-wrap: wrap;
+       justify-content: space-evenly;
+       align-items: center;
+}
+
+.card {
+       background: #333;
+       position: relative;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       aspect-ratio: 1/1;
+       height: 400px;
+       width: 400px;
+       margin: 10px;
+       z-index: 0;
+       border-radius: 25px;
+
+       &::before,
+       &::after {
+              content: "";
+              position: absolute;
+              left: -2px;
+              top: -2px;
+              width: 100%;
+              height: 100%;
+              background: conic-gradient(from var(--border-deg) at center,
+                            #00c3ff,
+                            #4d0199,
+                            #6300c6,
+                            #00c3ff);
+              border-radius: inherit;
+              z-index: -2;
+              animation: rotate-360 5s linear infinite;
+       }
+
+       &::after {
+              filter: blur(15px);
+       }
+
+       & img {
+              margin: auto;
+              width: 50%;
+       }
+
+       & .card-page {
+              position: relative;
+              display: flex;
+              justify-content: center;
+              align-items: center;
+              left: -2px;
+              top: -2px;
+              width: 98%;
+              height: 98%;
+              margin: 0;
+              border-radius: inherit;
+              background-color: #0c0e7a;
+       }
+}
+
+@keyframes rotate-360 {
+       to {
+              --border-deg: 360deg;
+       }
+}
+
+@keyframes slide-fade-in {
+       from {
+              opacity: 0;
+              transform: translateY(10vh);
+       }
+}
+
+/** Only works in chrome for now :/ **/
+@media (prefers-reduced-motion: no-preference) {
+       .card {
+              view-timeline-name: --item-timeline;
+              animation: slide-fade-in ease-out both;
+              animation-timeline: --item-timeline;
+              animation-range: contain 0% contain 60%;
+       }
+}
